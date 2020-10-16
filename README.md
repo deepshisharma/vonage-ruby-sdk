@@ -10,7 +10,7 @@ need a Vonage account. Sign up [for free at vonage.com][signup].
 
 * [Requirements](#requirements)
 * [Installation](#installation)
-* [Usage](#usage)
+* [How to Use](#how to use)
     * [Logging](#logging)
     * [Overriding the default hosts](#overriding-the-default-hosts)
     * [JWT authentication](#jwt-authentication)
